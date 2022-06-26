@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #3F3F3F;
+    font-family: 'Distant Galaxy', arial;
+    background: #ebf0f8;
+}
+.heder img {
+    width: 100%;
+}
+h1 {
+    font-size: 24px;
+    margin-left: 15px;
+}
+img {
+    height: 335px;
+
+}
+h2 {
+    padding: 10px;
+    font-size: 20px;
+    letter-spacing: -0.5px;
+    line-height: 24px;
+    margin-top: -1px;
+    font-family: 'Distant Galaxy', arial;
+}
+h3 {
+    color: red;
+    padding: 10px;
+}
+.chehly {
+    border: 1px solid #f78a36;
+    border-radius: 4px;
+    background: white;
+    margin: 15px;
+}
+.info {
+    background: #f9a13c;
+    width: 100%;
+    height: 600px;
+    margin-top: -4px;
+    text-align: center;
+}
+.info img {
+    border-radius: 50px;
+    height: 100px;
+    margin-top: -20px;
+}
+.chek_list {
+    background: #231f20;
+    height: auto;
+    text-align: center;
+    padding-top: 30px
+}
+.budjet {
+    color: #f9a13c;
+    font-size: 20px;
+}
